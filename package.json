@@ -8,7 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.49",
     "@reach/router": "^1.2.1",
     "bootstrap": "^4.5.2",
-    "firebase": "^6.4.0",
+    "firebase": "^10.9.0",
     "firebaseui": "^4.3.0",
     "js-base64": "^2.5.1",
     "material-ui-avatar-picker": "^1.0.4",
